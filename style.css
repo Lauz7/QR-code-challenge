@@ -65,7 +65,7 @@ img{
     font-family: 'Outfit', sans-serif;
     font-weight: 300;
     padding: 2px;
-    position: absolute;
+    position: fixed;
     bottom: 1rem;
 }
 @media only screen and (min-width:600px){
